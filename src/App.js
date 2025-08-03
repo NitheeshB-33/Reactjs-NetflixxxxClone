@@ -12,7 +12,7 @@ function App() {
   <div className='App'>
      <NavBar/>
   <Routes>
-  <Route path="/"
+  <Route path="/Reactjs-NetflixClone"
           element={
             <>
               <Banner />
